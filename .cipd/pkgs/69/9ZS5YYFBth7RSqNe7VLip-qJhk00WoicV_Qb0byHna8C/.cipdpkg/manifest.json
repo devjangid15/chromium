@@ -1,0 +1,13 @@
+{
+  "format_version": "1.1",
+  "package_name": "chromium/third_party/turbine",
+  "install_mode": "copy",
+  "actual_install_mode": "copy",
+  "files": [
+    {
+      "name": "turbine.jar",
+      "size": 6134995,
+      "hash": "zTQJqOqZiAKUJRSg8g23in79ul5RvCPHDg9F77W8LSEC"
+    }
+  ]
+}

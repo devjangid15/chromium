@@ -1,0 +1,17 @@
+{
+  "format_version": "1.1",
+  "package_name": "chromium/chrome/android/orderfiles/arm64",
+  "actual_install_mode": "copy",
+  "files": [
+    {
+      "name": "orderfile.arm64.out",
+      "size": 9765876,
+      "hash": "E3GSZJ3gf3HijJVIO057UWcCoM4BnyHrT6A_Ou3qWvwC"
+    },
+    {
+      "name": "pgo_profile.arm64.profdata",
+      "size": 197770088,
+      "hash": "QuV54HuppDQ3w5NCKvlEVx3sdWovRhbv1knKHgeOvvUC"
+    }
+  ]
+}

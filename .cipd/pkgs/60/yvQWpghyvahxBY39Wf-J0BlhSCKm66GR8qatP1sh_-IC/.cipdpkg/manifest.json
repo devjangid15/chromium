@@ -1,0 +1,13 @@
+{
+  "format_version": "1.1",
+  "package_name": "chromium/third_party/kotlin_stdlib",
+  "install_mode": "copy",
+  "actual_install_mode": "copy",
+  "files": [
+    {
+      "name": "kotlin-stdlib-jdk8.jar",
+      "size": 1778032,
+      "hash": "k-uYLNXnRE_c8Fjv9yeTt8eP3QLZ8xFSqAp1zFy_rO0C"
+    }
+  ]
+}
